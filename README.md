@@ -1,3 +1,3 @@
 # Seminario
 
-Una breve introuccion a *Github*
+Una breve introduccion a *Github*
